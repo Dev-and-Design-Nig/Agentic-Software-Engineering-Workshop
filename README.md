@@ -59,8 +59,7 @@ If you are checking a claim made by one of our presenters, for an application,
 an admission, a role or a visa, everything you need is public.
 
 1. **The recording.** Public on YouTube, with chapter markers naming each
-   presenter. The timestamp links in the table above open the recording at that
-   person's segment.
+   presenter. Link here : https://youtu.be/k9S5nDGPigo?si=oKgdPQ9RmZaUMzO7
 2. **The certificate.** Each certificate carries an ID. Match it against
    [certificate-register.md](certificate-register.md). An ID that does not
    appear there was not issued by us.
