@@ -40,7 +40,7 @@ and what it means for people entering the field now.
 
 | Presenter | Topic |
 |---|---|---|---|
-| Valerie Oswampe | How to Turn a Raw Idea into a Working Specification Document for an AI Coding Agent 
+| Valerie Osuamkpe | How to Turn a Raw Idea into a Working Specification Document for an AI Coding Agent 
 | Blessing Malik | The File That Changes Everything for an AI Coding Agent 
 | Phebian Nwokeji | Setting Up a Live Product Specification Teardown Session with AI Role Playing 
 
