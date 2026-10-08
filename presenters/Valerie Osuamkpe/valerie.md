@@ -1,4 +1,4 @@
-# Valerie Oswampe
+# Valerie Osuamkpe
 
 Presenter, Agentic Software Engineering, Edition 1
 Dev and Design HQ, Friday 2 October 2026
