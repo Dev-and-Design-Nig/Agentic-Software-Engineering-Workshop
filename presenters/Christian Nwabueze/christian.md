@@ -5,7 +5,7 @@ Dev and Design HQ, Friday 9 October 2026
 
 ## Session
 
-**The File That Changes Everything for an AI Coding Agent**
+**Server Side Auth/Validation**
 
 
 - Role: Presenter, live hands-on demonstration
