@@ -23,11 +23,11 @@ recordings, and the certificate register.
 |---|---|---|---|---|---|
 | 1 | 2 October 2026 | 3 | 240 | 140 | https://youtu.be/k9S5nDGPigo?si=G_M8S5siq8anqKdM
 | 2 | 9 October 2026 | 3 | 420 | 162 | https://youtu.be/dhefebR2zMU?si=G0zVab2HK8y2nrYo
-| 3 | To be announced | 3 | | | |
+| 3 | 16 October 2026 | 3 | 501 | 196 | https://youtu.be/ELOof9JBz9I?si=-6J5DhxWduYdsf0X 
 
 All presenter records and materials: [presenters/](presenters/)
 
----
+--- 
 
 ## Edition 1, Friday 2 October 2026
 
@@ -62,6 +62,22 @@ Archived snapshot: https://archive.org/details/httpswww.eventbrite.comeagentic-s
 Registration page: https://www.eventbrite.com/e/2002136045809?aff=oddtdtcreator
 
 Archived snapshot: https://archive.org/details/agentic-workshop-2
+
+---
+
+## Edition 3, Friday 16 October 2026
+
+501 people registered and 196 attended live.
+
+| Presenter | Session | Record |
+|---|---|---|
+| Hauwa Enagi | Can Your App Speak? | [Record](presenters/Hauwa%20Enagi/hauwa.md) |
+| Comfort Igboko | Zero Reload Auth | [Record](presenters/Comfort%20Igboko/comfort.md) |
+| Ojo Faith | Head First | [Record](presenters/Ojo%20Faith/ojo.md) |
+
+Registration page: https://www.eventbrite.com/e/2002136045809?aff=oddtdtcreator
+
+Archived snapshot: https://archive.org/details/httpswww.eventbrite.come2002136045809affoddtdtcreator
 
 ---
 
