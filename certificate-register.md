@@ -60,6 +60,16 @@ Records and materials: [presenters/](presenters/)
 
 ---
 
-## Edition 3
+## Edition 3, Friday 16 October 2026
 
-To be announced. Certificate IDs will be added here when they are issued.
+Certificate of Contribution, issued to speakers.
+
+| Certificate ID | Recipient | Role | Session |
+|---|---|---|---|
+| `DDHQ-ASE-03-001-H6RT` | Hauwa Enagi | Presenter | Can Your App Speak? |
+| `DDHQ-ASE-03-002-C3YB` | Comfort Igboko | Presenter | Zero Reload Auth |
+| `DDHQ-ASE-03-003-N8KV` | Ojo Faith | Presenter | Head First |
+
+Audience: 501 registered, 196 attended live.
+
+Records and materials: [presenters/](presenters/)
